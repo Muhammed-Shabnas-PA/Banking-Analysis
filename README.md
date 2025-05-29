@@ -45,7 +45,7 @@ Here are sample screenshots of the Power BI dashboard.
 ![📊 Home](Screenshots/Home.png)
 
 💰 Loan Analysis
-![💰 Loan Analysis](Screenshots/Loan Analysis.png)
+![💰 Loan Analysis](Screenshots/Loan%20Analysis.png)
 
 🔄 Deposit Analysis
 ![🔄 Deposit Analysis](Screenshots/Deposit Analysis.png)
