@@ -41,13 +41,17 @@ The interactive **Power BI dashboard** provides a clear, concise view of the fol
 📸 Sample Screenshots
 Here are sample screenshots of the Power BI dashboard.
 
-![📊 Dashboard Overview](Screenshots/Home.png)
+📊 Home
+![📊 Home](Screenshots/Home.png)
 
-💰 Loan Distribution Analysis
+💰 Loan Analysis
+![💰 Loan Analysis](Screenshots/Loan Analysis.png)
 
-🔄 Transactions Trend
+🔄 Deposit Analysis
+![🔄 Deposit Analysis](Screenshots/Deposit Analysis.png)
 
-🏦 Branch Performance
+🏦 Summary
+![🏦 Summary](Screenshots/Summary.png)
 
 🧹 Data Preparation and Exploration
 SQL Queries: Extracted and cleaned raw banking data. Find scripts in the SQL/ folder.
@@ -86,12 +90,14 @@ Add new visualizations or data sources
 
 Share feedback
 
-📬 Contact
+## 📬 Contact
 For any questions or feedback, feel free to connect:
 
-GitHub: Muhammed-Shabnas-PA
+**Muhammed Shabnas P A**  
+📧 Email: muhammedshabnaspa@gmail.com  
+🔗 GitHub: [@Muhammed-Shabnas-PA](https://github.com/Muhammed-Shabnas-PA)
 
-[Visit my Portfolio](muhammed-shabnas-pa.github.io/Portfolio-Website)
+---
 
 
 🌟 Thank you for exploring this project! Feel free to star ⭐ the repository if you find it helpful!
