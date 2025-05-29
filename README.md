@@ -61,8 +61,7 @@ Here are sample screenshots of the **Power BI dashboard**:
 ## 🧹 Data Preparation and Exploration
 
 - **SQL Queries**: Extracted and cleaned raw banking data. Find scripts in the `SQL/` folder.
-  - `data_extraction.sql`: SQL query to pull data from source databases.
-  - `data_cleaning.sql`: SQL query to clean and prepare data for analysis.
+  - SQL query to pull data from source databases.
 
 - **Python EDA**: Explored data using Python (`pandas`, `matplotlib`, `seaborn`) to:
   - Check for missing values
@@ -97,7 +96,7 @@ Contributions are welcome! Feel free to:
 For any questions or feedback, feel free to connect:
 
 **Muhammed Shabnas P A**  
-📧 [Email](muhammedshabnaspa@gmail.com)  
+📧 Email: muhammedshabnaspa@gmail.com  
 🌐 [My Portfolio](https://muhammed-shabnas-pa.github.io/Portfolio-Website/)  
 🔗 [GitHub](https://github.com/Muhammed-Shabnas-PA)
 
