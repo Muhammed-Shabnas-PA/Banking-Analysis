@@ -41,7 +41,7 @@ The interactive **Power BI dashboard** provides a clear, concise view of the fol
 📸 Sample Screenshots
 Here are sample screenshots of the Power BI dashboard.
 
-📊 Dashboard Overview 
+![📊 Dashboard Overview](Screenshots/Home.png)
 
 💰 Loan Distribution Analysis
 
@@ -91,6 +91,7 @@ For any questions or feedback, feel free to connect:
 
 GitHub: Muhammed-Shabnas-PA
 
-Portfolio: muhammed-shabnas-pa.github.io/Portfolio-Website
+[Visit my Portfolio](muhammed-shabnas-pa.github.io/Portfolio-Website)
+
 
 🌟 Thank you for exploring this project! Feel free to star ⭐ the repository if you find it helpful!
